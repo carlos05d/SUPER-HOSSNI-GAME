@@ -1,4 +1,4 @@
-# README.md for Super Houssni Game
+
 
 ```markdown
 # 🍄 Super Houssni Game - ULTRA CRAZY EDITION 🎮
@@ -80,6 +80,7 @@ The executable will be created in the `dist` folder.
 
 ![Game Screenshot](img/rtn.jpg "Super Houssni Game - Current State")
 ![Game Screenshot](img/houssam.png "Super Houssni Game - Current State")
+![Game Screenshot](img/mustapha.jpg "Super Houssni Game - Current State")
 *Experience the ULTRA CRAZY gameplay with smooth animations and challenging levels!*
 
 ## 🛠️ Dependencies
