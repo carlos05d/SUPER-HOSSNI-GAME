@@ -79,7 +79,7 @@ The executable will be created in the `dist` folder.
 ## 📸 Current Game State
 
 ![Game Screenshot](img/rtn.jpg "Super Houssni Game - Current State")
-
+![Game Screenshot](img/houssam.png "Super Houssni Game - Current State")
 *Experience the ULTRA CRAZY gameplay with smooth animations and challenging levels!*
 
 ## 🛠️ Dependencies
