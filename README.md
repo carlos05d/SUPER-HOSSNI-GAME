@@ -21,7 +21,7 @@ This is inspired by  [super HOSSNI game]
 * Left/Right Mouseclick: secret   
 
 ## Current state:
-![Alt text](img/pics.png "current state")
+![Alt text](img/rtn.jpg"current state")
 
 ## Dependencies	
 * pygame	
