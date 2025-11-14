@@ -1,6 +1,6 @@
 # Super Mario Implementation in Python
 
-This is inspired by  [super mario game]
+This is inspired by  [super HOSSNI game]
 
 ## Running
 
